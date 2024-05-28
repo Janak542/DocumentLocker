@@ -29,10 +29,10 @@ DocumentLocker is a Python-based file encryption and decryption tool designed to
 To encrypt all `.doc` files in the current directory, run:
 ```sh
 python lock_files.py
-
+```
 
 ### Decrypt Files
 To decrypt all locked files in the current directory, run:
 ```sh
 python unlock_files.py
-
+```
