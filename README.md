@@ -36,3 +36,7 @@ To decrypt all locked files in the current directory, run:
 ```sh
 python unlock_files.py
 ```
+
+## Important Notes
+- Keep the generated decryption key (decryption_key.key) secure. Losing this key means you cannot decrypt your files.
+- This tool is for educational purposes only. Do not use it for any malicious activities.
